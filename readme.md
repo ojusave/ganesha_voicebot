@@ -54,10 +54,10 @@ Replace `your_deepgram_api_key`, `your_cerebras_api_key`, and `your_cartesia_api
 
 To start the chatbot, run the following command:
 
-bash
+```bash
 
 python interactive-chatbot/new.py
-
+```
 
 Once the application is running, speak into your microphone, and the chatbot will respond with blessings and wisdom.
 
