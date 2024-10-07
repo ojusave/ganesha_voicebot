@@ -1,13 +1,14 @@
 # Interactive Ganesha Voicebot using Deepgram , Cerebras and Cartesia
 
-This project is an interactive chatbot that utilizes Deepgram's speech-to-text API and the Cerebras model for generating responses. The chatbot is designed to provide wisdom and blessings in the style of the Hindu deity Ganesha.
+This project is an interactive voicebot that leverages Deepgram's speech-to-text API, the Cerebras model for response generation, and Cartesia for text-to-speech synthesis. The voicebot provides wisdom and blessings in the style of the Hindu deity Ganesha, offering a unique, immersive experience.
 
 ## Features
 
-- Real-time audio input processing
-- Speech recognition using Deepgram
-- Response generation using Cerebras models
-- Customizable deity context for responses
+- **Real-time Audio Processing**: Capture and process audio input in real-time.
+- **Speech Recognition**: Leverage Deepgram's API for accurate speech-to-text conversion.
+- **AI Response Generation**: Use Cerebras models to generate contextually relevant responses.
+- **Text-to-Speech**: Utilize Cartesia for converting text responses into speech, allowing the chatbot to communicate audibly.
+- **Customizable Context**: Tailor the chatbot's responses based on user-defined deity contexts.
 
 ## Requirements
 
