@@ -18,8 +18,8 @@ To run this project, you need to have Python 3.7 or higher installed. You will a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ojusave/ganesha_voicebot
+   cd ganesha_voicebot
    ```
 
 2. Create a virtual environment (optional but recommended):
